@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from kmj_msg_srv_action_interface/srv/ObstacleState.srv
+// generated code does not contain a copyright notice
+
+
+module kmj_msg_srv_action_interface {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct ObstacleState_Request {
+      boolean set;
+
+      boolean obstacle;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct ObstacleState_Response {
+      boolean obstacle;
+
+      boolean success;
+    };
+  };
+};

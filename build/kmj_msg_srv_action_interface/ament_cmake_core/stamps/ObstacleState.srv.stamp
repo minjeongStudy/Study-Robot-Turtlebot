@@ -1,0 +1,8 @@
+# Request
+bool set
+bool obstacle
+
+---
+# Response
+bool obstacle
+bool success

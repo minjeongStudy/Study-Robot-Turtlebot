@@ -1,0 +1,1 @@
+/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_cmake/srv/ObstacleState_Response.msg

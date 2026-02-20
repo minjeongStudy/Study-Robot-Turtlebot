@@ -1,0 +1,1 @@
+/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_typesupport_fastrtps_cpp/kmj_msg_srv_action_interface/srv/detail/obstacle_state__rosidl_typesupport_fastrtps_cpp.hpp

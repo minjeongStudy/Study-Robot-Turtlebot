@@ -1,0 +1,9 @@
+source;share/kmj_turtlebot_pkg/hook/pythonpath.ps1
+source;share/kmj_turtlebot_pkg/hook/pythonpath.dsv
+source;share/kmj_turtlebot_pkg/hook/pythonpath.sh
+source;share/kmj_turtlebot_pkg/hook/ament_prefix_path.ps1
+source;share/kmj_turtlebot_pkg/hook/ament_prefix_path.dsv
+source;share/kmj_turtlebot_pkg/hook/ament_prefix_path.sh
+source;../../build/kmj_turtlebot_pkg/share/kmj_turtlebot_pkg/hook/pythonpath_develop.ps1
+source;../../build/kmj_turtlebot_pkg/share/kmj_turtlebot_pkg/hook/pythonpath_develop.dsv
+source;../../build/kmj_turtlebot_pkg/share/kmj_turtlebot_pkg/hook/pythonpath_develop.sh

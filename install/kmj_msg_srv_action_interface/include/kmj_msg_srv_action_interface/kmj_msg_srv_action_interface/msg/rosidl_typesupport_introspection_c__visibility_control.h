@@ -1,0 +1,1 @@
+/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_typesupport_introspection_c/kmj_msg_srv_action_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h

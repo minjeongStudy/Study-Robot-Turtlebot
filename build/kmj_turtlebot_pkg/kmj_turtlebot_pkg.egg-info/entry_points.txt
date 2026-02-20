@@ -1,0 +1,5 @@
+[console_scripts]
+detect_obstacle = kmj_turtlebot_pkg.detect_obstacle:main
+turtle_move_controller = kmj_turtlebot_pkg.turtle_move_controller:main
+turtle_server = kmj_turtlebot_pkg.turtle_server:main
+

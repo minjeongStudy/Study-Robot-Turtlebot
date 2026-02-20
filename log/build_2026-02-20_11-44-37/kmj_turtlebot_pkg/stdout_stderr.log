@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing kmj_turtlebot_pkg.egg-info/PKG-INFO
+writing dependency_links to kmj_turtlebot_pkg.egg-info/dependency_links.txt
+writing entry points to kmj_turtlebot_pkg.egg-info/entry_points.txt
+writing requirements to kmj_turtlebot_pkg.egg-info/requires.txt
+writing top-level names to kmj_turtlebot_pkg.egg-info/top_level.txt
+reading manifest file 'kmj_turtlebot_pkg.egg-info/SOURCES.txt'
+writing manifest file 'kmj_turtlebot_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/khj/robot_ws/install/kmj_turtlebot_pkg/lib/python3.10/site-packages/kmj-turtlebot-pkg.egg-link (link to .)
+Installing detect_obstacle script to /home/khj/robot_ws/install/kmj_turtlebot_pkg/lib/kmj_turtlebot_pkg
+Installing turtle_move_controller script to /home/khj/robot_ws/install/kmj_turtlebot_pkg/lib/kmj_turtlebot_pkg
+Installing turtle_server script to /home/khj/robot_ws/install/kmj_turtlebot_pkg/lib/kmj_turtlebot_pkg
+
+Installed /home/khj/robot_ws/build/kmj_turtlebot_pkg
+running symlink_data

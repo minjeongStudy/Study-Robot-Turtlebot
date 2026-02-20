@@ -1,0 +1,36 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from kmj_msg_srv_action_interface/action/Move.action
+// generated code does not contain a copyright notice
+
+
+module kmj_msg_srv_action_interface {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal")
+    struct Move_Goal {
+      float linear_x;
+
+      float angular_z;
+
+      float linear;
+
+      float angular;
+
+      float duration;
+
+      boolean obstacle;
+    };
+    @verbatim (language="comment", text=
+      "Result")
+    struct Move_Result {
+      boolean success;
+
+      string message;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct Move_Feedback {
+      float elapsed_time;
+    };
+  };
+};

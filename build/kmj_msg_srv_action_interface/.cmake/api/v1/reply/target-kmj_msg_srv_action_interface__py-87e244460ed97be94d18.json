@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/khj/robot_ws/build/kmj_msg_srv_action_interface/kmj_msg_srv_action_interface__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "kmj_msg_srv_action_interface::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "kmj_msg_srv_action_interface__py::@1796a074e449f0f1d285",
+	"name" : "kmj_msg_srv_action_interface__py",
+	"paths" : 
+	{
+		"build" : "kmj_msg_srv_action_interface__py",
+		"source" : "/home/khj/robot_ws/build/kmj_msg_srv_action_interface/kmj_msg_srv_action_interface__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/khj/robot_ws/build/kmj_msg_srv_action_interface/kmj_msg_srv_action_interface__py/CMakeFiles/kmj_msg_srv_action_interface__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khj/robot_ws/build/kmj_msg_srv_action_interface/kmj_msg_srv_action_interface__py/CMakeFiles/kmj_msg_srv_action_interface__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_generator_py/kmj_msg_srv_action_interface/_kmj_msg_srv_action_interface_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

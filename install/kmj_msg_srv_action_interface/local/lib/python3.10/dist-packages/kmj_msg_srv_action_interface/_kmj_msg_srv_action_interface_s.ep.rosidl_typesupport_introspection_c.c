@@ -1,0 +1,1 @@
+/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_generator_py/kmj_msg_srv_action_interface/_kmj_msg_srv_action_interface_s.ep.rosidl_typesupport_introspection_c.c

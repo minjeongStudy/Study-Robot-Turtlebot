@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "kmj_msg_srv_action_interface__py",
+		"source" : "/home/khj/robot_ws/build/kmj_msg_srv_action_interface/kmj_msg_srv_action_interface__py"
+	}
+}

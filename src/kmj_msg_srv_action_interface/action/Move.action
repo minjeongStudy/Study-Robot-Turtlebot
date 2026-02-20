@@ -1,0 +1,16 @@
+# Goal
+float32 linear_x
+float32 angular_z
+float32 linear
+float32 angular
+float32 duration
+bool obstacle
+
+---
+# Result
+bool success
+string message
+
+---
+# Feedback
+float32 elapsed_time

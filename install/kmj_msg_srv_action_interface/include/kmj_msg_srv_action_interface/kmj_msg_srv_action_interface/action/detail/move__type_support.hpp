@@ -1,0 +1,1 @@
+/home/khj/robot_ws/build/kmj_msg_srv_action_interface/rosidl_generator_cpp/kmj_msg_srv_action_interface/action/detail/move__type_support.hpp
