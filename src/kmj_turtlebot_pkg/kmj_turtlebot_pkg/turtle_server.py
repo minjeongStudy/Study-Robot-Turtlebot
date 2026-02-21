@@ -24,7 +24,7 @@ class TurtleServer(Node):
                 self.obstacle_callback
             )
 
-        # Service Client
+        # Action Client
         self.action_client = ActionClient(self, Move, 'action_turtle')
 
     def obstacle_callback(self, request, response):
